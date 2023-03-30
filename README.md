@@ -1,1 +1,1 @@
-# organier-website-mydigijournal-
+# organizer-website-mydigijournal-
