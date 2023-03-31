@@ -1,9 +1,4 @@
-/*for the calendear i have referred to youtube video and its github repository for help in css and js files
-as i was not much familiar with date function but i am learning now
 
-heres the link 
-https://github.com/opensource-coding/Responsive-Calendar-with-Events.git
-*/
 
 
 
